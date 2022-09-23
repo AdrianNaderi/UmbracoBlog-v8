@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+/.vs
+/UmbracoBlog.Web/App_Data
+/UmbracoBlog.Web/bin
+/UmbracoBlog.Web/obj/Debug
+/UmbracoBlog.Web/Umbraco
+/packages
+/App_Data
+/Umbraco
